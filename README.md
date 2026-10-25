@@ -33,3 +33,9 @@ Phase 0 has not started. See [AGENTS.md](AGENTS.md) for the next steps.
 ## Working on this repo
 
 This repo is set up to be worked on by coding agents. [AGENTS.md](AGENTS.md) has the rules and the current plan. Task-specific instructions live in `.agents/skills/`.
+
+## License
+
+Silica is licensed under the [GNU LGPL v3](COPYING.LESSER), which builds on the [GNU GPL v3](COPYING). Changes to Silica itself must stay open source. Other mods and modpacks may still use or bundle it, which matters because everything here runs on top of Minecraft, which is not open source.
+
+Third-party mods, resource packs and shaderpacks referenced by Silica keep their own licenses.
