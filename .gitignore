@@ -1,0 +1,12 @@
+.DS_Store
+
+# Gradle and Fabric Loom
+.gradle/
+build/
+run/
+
+# Benchmark output
+results/
+
+# JVM crash files contain the Minecraft access token
+hs_err_pid*.log
